@@ -13,5 +13,5 @@ https://github.com/ND-Framework/<br>
 permission to keep this up was granted by Andyyy7666
 
 notes:<br>
-Place script in your resource folder, add to server.cfg and restart server.
+Place script in your resource folder, add to server.cfg and restart server.<br>
 Script cannot be restarted after starting or error will occur where meter doesn't go up.
