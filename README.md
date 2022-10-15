@@ -9,4 +9,5 @@ Links to ND<br>
 FiveM<br>
 https://forum.cfx.re/t/free-nd-fuel-nozzle-hose/4884780<br>
 Github<br>
-https://github.com/ND-Framework/
+https://github.com/ND-Framework/<br>
+permission to keep this up was granted by Andyyy7666
